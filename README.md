@@ -21,4 +21,4 @@ Built with **Python**, **OpenCV**, and **MediaPipe**, this project tracks your h
 
 ---
 
-## 📂 Project Structure
+
